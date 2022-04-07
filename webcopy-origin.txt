@@ -1,0 +1,60 @@
+Uri: https://accounts.google.com/AccountChooser?continue=https:%2F%2Fwww.google.es%2F%3Fgws_rd%3Dssl&hl=es&rip=1
+File Name: C:\Users\Maite\Desktop\WEBS\accounts.google.com\AccountChooser
+Content Type: text/html
+
+Uri: https://accounts.google.com/ServiceLogin?continue=https:%2F%2Fwww.google.es%2F%3Fgws_rd%3Dssl&sacu=1&hl=es&rip=1
+File Name: C:\Users\Maite\Desktop\WEBS\accounts.google.com\ServiceLogin-1.html
+Content Type: text/html
+
+Uri: https://accounts.google.com/ServiceLogin?hl=es&passive=true&continue=https:%2F%2Fwww.google.es%2F%3Fgws_rd%3Dssl&ec=GAZAAQ&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+File Name: C:\Users\Maite\Desktop\WEBS\accounts.google.com\ServiceLogin.html
+Content Type: text/html
+
+Uri: https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OUuhs.ttf
+File Name: C:\Users\Maite\Desktop\WEBS\accounts.google.com\s\opensans\v15\mem5YaGs126MiZpBA-UN_r8OUuhs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFVZ0e.ttf
+File Name: C:\Users\Maite\Desktop\WEBS\accounts.google.com\s\opensans\v15\mem8YaGs126MiZpBA-UFVZ0e.ttf
+Content Type: font/ttf
+
+Uri: https://ssl.gstatic.com/accounts/ui/avatar_2x.png
+File Name: C:\Users\Maite\Desktop\WEBS\accounts.google.com\accounts\ui\avatar_2x.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/accounts/ui/logo_1x.png
+File Name: C:\Users\Maite\Desktop\WEBS\accounts.google.com\accounts\ui\logo_1x.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/accounts/ui/logo_2x.png
+File Name: C:\Users\Maite\Desktop\WEBS\accounts.google.com\accounts\ui\logo_2x.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/accounts/ui/wlogostrip_230x17_1x.png
+File Name: C:\Users\Maite\Desktop\WEBS\accounts.google.com\accounts\ui\wlogostrip_230x17_1x.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/accounts/ui/wlogostrip_230x17_2x.png
+File Name: C:\Users\Maite\Desktop\WEBS\accounts.google.com\accounts\ui\wlogostrip_230x17_2x.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_112x36dp.png
+File Name: C:\Users\Maite\Desktop\WEBS\accounts.google.com\images\branding\googlelogo\1x\googlelogo_color_112x36dp.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/images/branding/googlelogo/2x/googlelogo_color_112x36dp.png
+File Name: C:\Users\Maite\Desktop\WEBS\accounts.google.com\images\branding\googlelogo\2x\googlelogo_color_112x36dp.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/images/icons/ui/common/universal_language_settings-21.png
+File Name: C:\Users\Maite\Desktop\WEBS\accounts.google.com\images\icons\ui\common\universal_language_settings-21.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/icons/common/x_8px.png
+File Name: C:\Users\Maite\Desktop\WEBS\accounts.google.com\ui\v1\icons\common\x_8px.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/menu/checkmark.png
+File Name: C:\Users\Maite\Desktop\WEBS\accounts.google.com\ui\v1\menu\checkmark.png
+Content Type: image/png
+
